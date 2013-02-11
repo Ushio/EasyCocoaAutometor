@@ -1,0 +1,3 @@
+EasyCocoaAutometor
+==================
+autometor tamplate
